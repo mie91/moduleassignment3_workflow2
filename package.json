@@ -1,0 +1,25 @@
+{
+  "name": "moduleassignment3",
+  "version": "1.0.0",
+  "description": "excercise 9 in module assignment 3 in worklow 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marie Helen Berger",
+  "license": "ISC",
+  "dependencies": {
+    "grunt-cli": "^1.3.2",
+    "imagemin-mozjpeg": "^8.0.0",
+    "less": "^3.11.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "grunt": "^1.0.4",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-imagemin": "^0.8.1",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
